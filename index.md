@@ -2,11 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Data Analytics and Visualization with R
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[The Decline of International Students in the U.S.(Click to view full project)](https://dorazhangl.github.io/intl-students-in-us/)
+* Datasets are obtained from U.S. government agencies and the the Institute of International Education (IIE).
+* Interactive data visualization with plotly.
+* Formatted with R markdown to generate html file with collapsible code sections.
+* Other packages/features used:ggplot,gt table, and world map.
+<img src="images/plot1.png?raw=true"/><img src="images/plot2.png?raw=true"/><img src="images/plot3.png?raw=true"/><img src="images/plot4.png?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
