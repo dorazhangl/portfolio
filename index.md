@@ -9,7 +9,10 @@
 * Interactive data visualization with plotly.
 * Formatted with R markdown to generate html file with collapsible code sections.
 * Other packages/features used:ggplot,gt table, and world map.
-<img src="images/plot1.png?raw=true"/><img src="images/plot2.png?raw=true"/><img src="images/plot3.png?raw=true"/><img src="images/plot4.png?raw=true"/>
+[<img src="images/plot1.png?raw=true"/>](https://dorazhangl.github.io/intl-students-in-us/)
+[<img src="images/plot2.png?raw=true"/>](https://dorazhangl.github.io/intl-students-in-us/)
+[<img src="images/plot3.png?raw=true"/>](https://dorazhangl.github.io/intl-students-in-us/)
+[<img src="images/plot4.png?raw=true"/>](https://dorazhangl.github.io/intl-students-in-us/)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
