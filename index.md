@@ -18,10 +18,10 @@
 
 ### Text Mining and Sentiment Analysis with R
 
-- [Game of Thrones Script Analysis](https://dorazhang.shinyapps.io/got_shiny/)
+[Game of Thrones Script Analysis](https://dorazhang.shinyapps.io/got_shiny/)
 * Datasets are obtained [ALBEN TUMANGGO on Kaggle](https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons).
 * Interactive data visualization with ShinyApp and Plotly.
-[<img src="images/got_shiny.png?raw=true"/>](https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons)
+[<img src="images/got shiny.png?raw=true"/>](https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons)
 ---
 
 
